@@ -34,4 +34,3 @@ doSomethingAsync(afterDone);
 doSomethingAsync(function(){
     console.log('this function is Afterdone');   
 });
-
